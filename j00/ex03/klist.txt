@@ -1,0 +1,5 @@
+Credentials cache: API:37337
+        Principal: cscialpi@LE-101.FR
+
+		  Issued                Expires               Principal
+		  Jul  3 15:22:07 2018  Jul 10 15:21:57 2018  krbtgt/LE-101.FR@LE-101.FR
